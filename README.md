@@ -1,7 +1,7 @@
 ### Currently working on a project a week!
-# Current Week: Portfolio Website
+# Current Project of the Week: Portfolio Website
 
-Previous Projects can be found on this website: (will be here once the website is finished)
+Previous Projects can be found below or on this website: (will be here once the website is finished)
 
 <!--
 **AzureAsteroid2/AzureAsteroid2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
