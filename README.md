@@ -1,5 +1,5 @@
 ### Currently working on a project a week!
-# Current Project of the Week: Twitter Bot
+# Current Project of the Week: Twitch Bot
 
 Previous Projects can be found below or on this website: (will be here once the website is finished)
 
