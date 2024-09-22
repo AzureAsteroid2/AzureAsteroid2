@@ -1,7 +1,5 @@
-### Currently back at school!
-# Current Passion Project: Twitch Bot
+### Graduated Recently
 
-Previous Projects can be found below or on this website: (will be here once the website is finished)
 
 <!--
 **AzureAsteroid2/AzureAsteroid2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
